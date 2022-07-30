@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @R4ndom-Person
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning python
